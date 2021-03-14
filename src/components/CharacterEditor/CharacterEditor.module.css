@@ -40,8 +40,9 @@
 
 .backgroundDecorator {
   background-color: hsl(195deg, 20%, 86%);
-  width: 100%;
-  height: 35vh;
   position: fixed;
   bottom: 0;
+  top: 60%;
+  left: 0;
+  right: 0;
 }
