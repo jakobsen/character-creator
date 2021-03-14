@@ -35,6 +35,7 @@
 
 .controlColumn {
   width: 50%;
+  position: relative;
 }
 
 .backgroundDecorator {
